@@ -6,7 +6,7 @@
       "defaultValue": "CIPP",
       "type": "string",
       "metadata": {
-        "description": "Name use as base-template to named the resources deployed in Azure."
+        "description": "Name use as base-template to named the resources deployed in Azure. Update Test"
       }
     },
     "GithubRepository": {
